@@ -12,8 +12,8 @@
 
 - <div>
   <a href="https://github.com/LeonardoMachado071202">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeonardoMachado071202&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoMachado071202&layout=compact&langs_count=16&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeonardoPMachado&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoPMachado&layout=compact&langs_count=16&theme=tokyonight"/>
   </a>
 </div>
 
@@ -53,7 +53,7 @@
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeonardoMachado071202/LeonardoMachado071202/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LeonardoMachado071202/LeonardoMachado071202/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LeonardoMachado071202/LeonardoMachado071202/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeonardoPMachado/LeonardoPMachado/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LeonardoPMachado/LeonardoPMachado/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LeonardoPMachado/LeonardoPMachado/output/github-contribution-grid-snake.svg">
 </picture>
