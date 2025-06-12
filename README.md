@@ -11,7 +11,7 @@
 - 🎯 Sempre em busca de aprender algo novo e melhorar minhas habilidades
 
 - <div>
-  <a href="https://github.com/LeonardoMachado071202">
+  <a href="https://github.com/LeonardoPMachado">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeonardoPMachado&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoPMachado&layout=compact&langs_count=16&theme=tokyonight"/>
   </a>
